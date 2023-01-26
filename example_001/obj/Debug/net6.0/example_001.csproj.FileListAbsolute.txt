@@ -1,0 +1,15 @@
+/Users/xenia_golb/Documents/с#/example_001/bin/Debug/net6.0/example_001
+/Users/xenia_golb/Documents/с#/example_001/bin/Debug/net6.0/example_001.deps.json
+/Users/xenia_golb/Documents/с#/example_001/bin/Debug/net6.0/example_001.runtimeconfig.json
+/Users/xenia_golb/Documents/с#/example_001/bin/Debug/net6.0/example_001.dll
+/Users/xenia_golb/Documents/с#/example_001/bin/Debug/net6.0/example_001.pdb
+/Users/xenia_golb/Documents/с#/example_001/obj/Debug/net6.0/example_001.csproj.AssemblyReference.cache
+/Users/xenia_golb/Documents/с#/example_001/obj/Debug/net6.0/example_001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xenia_golb/Documents/с#/example_001/obj/Debug/net6.0/example_001.AssemblyInfoInputs.cache
+/Users/xenia_golb/Documents/с#/example_001/obj/Debug/net6.0/example_001.AssemblyInfo.cs
+/Users/xenia_golb/Documents/с#/example_001/obj/Debug/net6.0/example_001.csproj.CoreCompileInputs.cache
+/Users/xenia_golb/Documents/с#/example_001/obj/Debug/net6.0/example_001.dll
+/Users/xenia_golb/Documents/с#/example_001/obj/Debug/net6.0/refint/example_001.dll
+/Users/xenia_golb/Documents/с#/example_001/obj/Debug/net6.0/example_001.pdb
+/Users/xenia_golb/Documents/с#/example_001/obj/Debug/net6.0/example_001.genruntimeconfig.cache
+/Users/xenia_golb/Documents/с#/example_001/obj/Debug/net6.0/ref/example_001.dll
